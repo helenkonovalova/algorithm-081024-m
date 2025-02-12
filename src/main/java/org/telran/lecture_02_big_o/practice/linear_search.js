@@ -16,4 +16,4 @@ function linear_search(numbers, target_number) {
 }
 
 // Оценить сложность алгоритма 
-1
+O(n)
